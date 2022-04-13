@@ -1,6 +1,6 @@
 # Welcome to LSTM-Stock-Prediction
 
-This Python Script is my implementation of Long Short Term Memory (LSTM) Neural Networks to predict a given stock price based on previous stock ticker data
+This Python Script is my implementation of a Long Short Term Memory (LSTM) Neural Network to predict a given stock price based on previous stock ticker data
 
 ### Built with
 * math
