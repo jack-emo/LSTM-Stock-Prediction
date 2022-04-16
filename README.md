@@ -3,12 +3,12 @@
 This Python Script is my implementation of a Long Short Term Memory (LSTM) Neural Network to predict a given stock price based on previous stock ticker data
 
 ### Built with
-* Math
-* Matplotlib
-* Pandas
-* Numpy
-* Keras
-* Sklearn
+* [Math](https://docs.python.org/3/library/math.html)
+* [Matplotlib](https://www.pygame.org/news)
+* [Pandas](https://pandas.pydata.org)
+* [Numpy](https://numpy.org)
+* [Keras](https://keras.io)
+* [Scikit-learn](https://scikit-learn.org/stable/)
 
 ### Features
 * Analyzes any given stock (set to Facebook right now) (provided with .csv file) based on close data
